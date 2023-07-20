@@ -85,9 +85,7 @@ def main():
         # displaying the prediction on web app
         st.write(f'The predicted score for {batteam} vs {bowlteam} is between {my_prediction-10} and {my_prediction+5}')
 
-
-    
-    
+  
     
 
 if __name__ == '__main__':
